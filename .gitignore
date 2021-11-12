@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+03-task-scheduling-and-management/esp32-freertos-03-solution-led/.DS_Store

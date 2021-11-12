@@ -11,6 +11,8 @@
 // Needed for atoi()
 #include <stdlib.h>
 
+//#define LED_BUILTIN 13
+
 // Use only core 1 for demo purposes
 #if CONFIG_FREERTOS_UNICORE
   static const BaseType_t app_cpu = 0;
